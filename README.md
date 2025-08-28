@@ -19,9 +19,8 @@ for each data point calculate the difference between the actual and predicted ma
 
 
 ## Program:
-Developed by:   Mohamed Sulthan A
-
-RegisterNumber:  212223230125
+Developed by:   YUGABHARATHI M
+RegisterNumber:  212224230314
 ```
 /*
 import pandas as pd
